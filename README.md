@@ -15,4 +15,4 @@ Let's read
 
 [Plato - Apology](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20Plato%20-%20Apology.pdf)
 
-[The New Science of the Mind From Extended Mind to Embodied Phenomenology](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20The%20New%20Science%20of%20the%20Mind%20From%20Extended%20Mind%20to%20Embodied%20Phenomenology.pdf)
+[The New Science of the Mind - From Extended Mind to Embodied Phenomenology](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20The%20New%20Science%20of%20the%20Mind%20From%20Extended%20Mind%20to%20Embodied%20Phenomenology.pdf)
