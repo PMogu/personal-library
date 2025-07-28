@@ -12,8 +12,8 @@ Let's read
 [柏拉图对话录(22卷)-申辩篇、克利同篇、斐多篇](https://github.com/PMogu/personal-library/blob/main/%5BCH%5D%20柏拉图对话录(22卷)-申辩篇、克利同篇、斐多篇.pdf)
 
 ### 外文区 International Section
-[On%20the%20Heights%20of%20Despair.pdf](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20On%20the%20Heights%20of%20Despair.pdf)
+[On the Heights of Despair](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20On%20the%20Heights%20of%20Despair.pdf)
 
-[Plato%20-%20Apology.pdf](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20Plato%20-%20Apology.pdf)
+[Plato-Apology](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20Plato%20-%20Apology.pdf)
 
-[The%20New%20Science%20of%20the%20Mind%20From%20Extended%20Mind%20to%20Embodied%20Phenomenology.pdf](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20The%20New%20Science%20of%20the%20Mind%20From%20Extended%20Mind%20to%20Embodied%20Phenomenology.pdf)
+[The New Science of the Mind From Extended Mind to Embodied Phenomenology](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20The%20New%20Science%20of%20the%20Mind%20From%20Extended%20Mind%20to%20Embodied%20Phenomenology.pdf)
