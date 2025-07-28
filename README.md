@@ -8,11 +8,11 @@ Let's read
 
 - [在绝望之巅](https://github.com/PMogu/personal-library/blob/main/%5BCH%5D%20在绝望之巅.pdf)
 
-   ↳English original: [On the Heights of Despair](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20On%20the%20Heights%20of%20Despair.pdf)
+   ↳*English original: [On the Heights of Despair](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20On%20the%20Heights%20of%20Despair.pdf)*
 
 - [柏拉图对话录(22卷)-申辩篇、克利同篇、斐多篇](https://github.com/PMogu/personal-library/blob/main/%5BCH%5D%20柏拉图对话录(22卷)-申辩篇、克利同篇、斐多篇.pdf)
 
-   ↳申辩篇的英文译本: [Plato - Apology](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20Plato%20-%20Apology.pdf)
+   ↳*申辩篇的英文译本: [Plato - Apology](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20Plato%20-%20Apology.pdf)*
 
 ### 外文区 International Section
 - [On the Heights of Despair](https://github.com/PMogu/personal-library/blob/main/%5BEN%5D%20On%20the%20Heights%20of%20Despair.pdf)
