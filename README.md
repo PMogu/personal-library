@@ -3,6 +3,7 @@ Let's read
 
 一些最近在读的书 比较杂（大多是哲学，以及神经科学、认知科学等方向）
 
+最近更新：2025.07.28
 ## 索引 index
 ### 中文区
 [三岛由纪夫作品集_套装共15册](https://github.com/PMogu/personal-library/blob/main/%5BCH%5D%20三岛由纪夫作品集_套装共15册.pdf)
